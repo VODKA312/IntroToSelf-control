@@ -68,7 +68,7 @@
 - we recommend use lowercase to name variable,like "snake case"
 
   ```python
-  my height = 58 #recommend
+  my_height = 58 #recommend
   MYLONG = 40 #hum....
   MyLat = 105 #all right
   ```
@@ -78,4 +78,11 @@
 like `+=` and so on......
 
 #### int and float
+- use correct type to express variable
+- like use int to express count for people,or obj,use float to express others
+- division by zero?
+- will happen`ZeroDivisionError `mistake
 
+#### boolean,logical,comparing operator
+hold on,it's too easy.
+#### string
