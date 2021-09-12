@@ -117,18 +117,133 @@ Codewars:
 
 URL:[总结 (kjdfe.github.io)](https://kjdfe.github.io/ljl.github.io/无人驾驶入门/Part 03-Module 01-Lesson 02_数据类型与运算符/37. 总结.html)
 
-| data structure | ordered | mutable | constructor | Example |
-| -------------- | ------- | ------- | ----------- | ------- |
-| int            | NA      | NA      | int()       | 5       |
-| float          | NA      | NA      | float()     | 6.5     |
-|                |         |         |             |         |
-|                |         |         |             |         |
-|                |         |         |             |         |
-|                |         |         |             |         |
-|                |         |         |             |         |
-|                |         |         |             |         |
+| data structure | ordered | mutable | constructor   | Example                                  |
+| -------------- | ------- | ------- | ------------- | ---------------------------------------- |
+| int            | NA      | NA      | int()         | 5                                        |
+| float          | NA      | NA      | float()       | 6.5                                      |
+| string         |         |         |               |                                          |
+| bool           |         |         |               |                                          |
+| list           | Yes     | Yes     | [] or list()  | [5, 'yes', 5.7]                          |
+| tuple          | Yes     | No      | () or tuple() | (5, 'yes', 5.7)           or 5,'yes',5.7 |
+| set            | No      | Yes     |               |                                          |
+| dictionary     |         |         |               |                                          |
 
 #### TYPE & Type Conversion
 
 - use type() function,you can judge the type of variable
-- 
+
+#### Lists and Membership Operator
+
+- lists
+- splicing
+
+#### List Methods
+
+| method         | input                                                        | output                         |
+| -------------- | ------------------------------------------------------------ | ------------------------------ |
+| len()          | [1,2,3,4]                                                    | 4                              |
+| max()          | digit: return maximum                [1,2,3,4]                                        string: return sort end in the alphabet | maximum                        |
+| min()          | opposite of the max()                                        | minimum                        |
+| sorted()       | [1,3,2,4]                                                    | [1,2,3,4]                      |
+| "\".join(list) | ["fore", "aft", "starboard", "port"]                         | fore        aft starboard port |
+| list.append()  | [a,b,c,d].append('z')                                        | [a,b,c,d,e]                    |
+| n in list      | print("a" in list)                                           | True                           |
+
+#### Tuple
+
+- tuple is **ordered** and **immutable**
+
+  like that
+
+  ```python
+  location = (13.4125, 103.866667)
+  print("Latitude:", location[0])
+  print("Longitude:", location[1])
+  ```
+
+- tuple can use dimensions to give variables values
+
+  like that
+
+  ```python
+  dimensions = 52, 40, 100
+  length, width, height = dimensions
+  print("The dimensions are {} x {} x {}".format(length, width, height))
+  ```
+
+  or you can use
+
+  ```python
+  length, width, height = 52, 40, 100
+  print("The dimensions are {} x {} x {}".format(length, width, height))
+  ```
+
+#### Set
+
+- set contains unique elements,it's disordered but mutable
+
+  like that
+
+  ```python
+  numbers = [1, 2, 6, 3, 1, 1, 6]
+  unique_nums = set(numbers)
+  print(unique_nums)
+  ### output: {1,2,3,6}
+  ```
+
+- methods in set
+
+- as same as methods in list ,we use `in` to judge if this element contains in this set
+
+- add: add an element
+
+- remove: *remove an random element
+
+> *set in python is similar in math. You can use union, intersection ,difference* methods. it's quicker than other containers.
+
+#### Dictionaries And Identify Operators
+
+- constructing way
+
+  ```python
+  elements = {"hydrogen": 1, "helium": 2, "carbon": 6}
+  ```
+
+- add element and assignment
+
+  add:
+
+  ```python
+  elements["lithium"] = 3  # insert "lithium" with a value of 3 into the dictionary
+  ```
+
+- search elements in dictionary
+
+  if you use `in` methods return T/F
+
+  if you use `get` methods return N/Y
+
+  *seems like LEITS test
+
+- **identify operators in dictionary**
+
+- you can `is` or `is not` to judge if it exists. Then it will return True/False
+
+  *may be you can use it in your LEITS test
+
+-  **== is equal to is**
+
+  ```python
+  a = [1, 2, 3]
+  b = a
+  c = [1, 2, 3]
+  
+  print(a == b)
+  print(a is b)
+  print(a == c)
+  print(a is c)
+  # it will return T,T,T,F
+  ```
+
+#### Compound data structure
+
