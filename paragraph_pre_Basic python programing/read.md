@@ -90,13 +90,18 @@ hold on,it's too easy.
 hold on,it's too easy.
 
 - use \ to divide ' ' in string
+
 - len(string) 
+
 - (string * n)
+
 - string[0]
 
 - **function in string**
 
+  you can find many function in python website...
   
+  [Built-in Types — Python 3.9.7 documentation](https://docs.python.org/3/library/stdtypes.html#string-methods)
 
 #### Basic Data Structure in python
 
