@@ -9,7 +9,7 @@
 
 ***
 
-### Lesson 1:intro to this module
+### LESSON1:intro to this module
 
 #### INTRO
 
@@ -27,8 +27,7 @@
 
 #### OVERVIEW
 
-	- **lesson1:**  intro
-
+- **lesson1:**  intro
 - **lesson2:**  data types and operators
 - **lesson3:**  control flow
 - **lesson4:**  function definition,variable scope and so on.
@@ -81,8 +80,50 @@ like `+=` and so on......
 - use correct type to express variable
 - like use int to express count for people,or obj,use float to express others
 - division by zero?
-- will happen`ZeroDivisionError `mistake
+- will happen `ZeroDivisionError `mistake
 
-#### boolean,logical,comparing operator
+#### Boolean,logical,comparing operator
 hold on,it's too easy.
+
 #### string
+
+hold on,it's too easy.
+
+- use \ to divide ' ' in string
+- len(string) 
+- (string * n)
+- string[0]
+
+- **function in string**
+
+  
+
+#### Basic Data Structure in python
+
+If you want to use python more fluently,I recommend you to practice in these websites....
+
+HackerRank:
+
+[Python If-Else | HackerRank](https://www.hackerrank.com/challenges/py-if-else/problem)
+
+Codewars:
+
+[Sign in | Codewars](https://www.codewars.com/users/sign_in)
+
+URL:[总结 (kjdfe.github.io)](https://kjdfe.github.io/ljl.github.io/无人驾驶入门/Part 03-Module 01-Lesson 02_数据类型与运算符/37. 总结.html)
+
+| data structure | ordered | mutable | constructor | Example |
+| -------------- | ------- | ------- | ----------- | ------- |
+| int            | NA      | NA      | int()       | 5       |
+| float          | NA      | NA      | float()     | 6.5     |
+|                |         |         |             |         |
+|                |         |         |             |         |
+|                |         |         |             |         |
+|                |         |         |             |         |
+|                |         |         |             |         |
+|                |         |         |             |         |
+
+#### TYPE & Type Conversion
+
+- use type() function,you can judge the type of variable
+- 
