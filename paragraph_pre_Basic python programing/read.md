@@ -247,3 +247,36 @@ URL:[总结 (kjdfe.github.io)](https://kjdfe.github.io/ljl.github.io/无人驾�
 
 #### Compound data structure
 
+If you want to add some elements,you can use the methods `add` in dictionary
+
+such as 
+
+```python
+elements = {'hydrogen': {'number': 1, 'weight': 1.00794, 'symbol': 'H'},
+            'helium': {'number': 2, 'weight': 4.002602, 'symbol': 'He'}}
+
+elements['hydrogen']['is_noble_gas'] = False
+elements['helium']['is_noble_gas'] = True
+```
+
+#### Different use ways in Lists,dictionaries,sets
+
+[练习：复合数据结构 (kjdfe.github.io)](https://kjdfe.github.io/ljl.github.io/无人驾驶入门/Part 03-Module 01-Lesson 02_数据类型与运算符/34. 练习：复合数据结构.html)
+
+- For list
+  - index start with 0
+  - can sort
+  - can use .append to add element
+- For set
+  - mutable
+  - use .add to add element
+  - disordered
+- For dictionaries
+  - can be compound
+  - disordered
+  - contains two parts (like dictionary people use)
+
+### Lesson 3: control flow
+
+
+
