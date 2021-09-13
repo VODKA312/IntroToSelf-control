@@ -18,6 +18,7 @@
 
 - this module is well-structured to help you develop fluency in Python.
 - **OVERVIEW**
+    - **lesson2:**  intro to python
     - **lesson2:**  data types and operators
     - **lesson3:**  control flow
     - **lesson4:**  function definition,variable scope and so on.
