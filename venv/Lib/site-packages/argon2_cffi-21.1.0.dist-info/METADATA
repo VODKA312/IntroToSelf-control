@@ -1,0 +1,180 @@
+Metadata-Version: 2.1
+Name: argon2-cffi
+Version: 21.1.0
+Summary: The secure Argon2 password hashing algorithm.
+Home-page: https://argon2-cffi.readthedocs.io/
+Author: Hynek Schlawack
+Author-email: hs@ox.cx
+Maintainer: Hynek Schlawack
+Maintainer-email: hs@ox.cx
+License: MIT
+Project-URL: Ko-fi, https://ko-fi.com/the_hynek
+Project-URL: Source Code, https://github.com/hynek/argon2-cffi
+Project-URL: Documentation, https://argon2-cffi.readthedocs.io/
+Project-URL: Bug Tracker, https://github.com/hynek/argon2-cffi/issues
+Project-URL: Funding, https://github.com/sponsors/hynek
+Project-URL: Tidelift, https://tidelift.com/subscription/pkg/pypi-argon2-cffi?utm_source=pypi-argon2-cffi&utm_medium=pypi
+Keywords: password,hash,hashing,security
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Unix
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Programming Language :: Python
+Classifier: Topic :: Security :: Cryptography
+Classifier: Topic :: Security
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.5
+Description-Content-Type: text/x-rst
+Requires-Dist: cffi (>=1.0.0)
+Provides-Extra: dev
+Requires-Dist: coverage[toml] (>=5.0.2) ; extra == 'dev'
+Requires-Dist: hypothesis ; extra == 'dev'
+Requires-Dist: pytest ; extra == 'dev'
+Requires-Dist: sphinx ; extra == 'dev'
+Requires-Dist: furo ; extra == 'dev'
+Requires-Dist: wheel ; extra == 'dev'
+Requires-Dist: pre-commit ; extra == 'dev'
+Provides-Extra: docs
+Requires-Dist: sphinx ; extra == 'docs'
+Requires-Dist: furo ; extra == 'docs'
+Provides-Extra: tests
+Requires-Dist: coverage[toml] (>=5.0.2) ; extra == 'tests'
+Requires-Dist: hypothesis ; extra == 'tests'
+Requires-Dist: pytest ; extra == 'tests'
+
+=================
+Argon2 for Python
+=================
+
+.. image:: https://img.shields.io/badge/Docs-Read%20The%20Docs-black
+   :target: https://argon2-cffi.readthedocs.io/
+   :alt: Documentation
+
+.. image:: https://img.shields.io/badge/license-MIT-C06524
+   :target: https://github.com/hynek/argon2-cffi/blob/main/LICENSE
+   :alt: License: MIT
+
+.. image:: https://img.shields.io/pypi/v/argon2-cffi
+   :target: https://pypi.org/project/argon2-cffi/
+   :alt: PyPI version
+
+.. image:: https://static.pepy.tech/personalized-badge/argon2-cffi?period=month&units=international_system&left_color=grey&right_color=blue&left_text=Downloads%20/%20Month
+   :target: https://pepy.tech/project/argon2-cffi
+   :alt: Downloads / Month
+
+
+.. teaser-begin
+
+`Argon2 <https://github.com/p-h-c/phc-winner-argon2>`_ won the `Password Hashing Competition <https://www.password-hashing.net/>`_ and *argon2-cffi* is the simplest way to use it in Python and PyPy:
+
+.. code-block:: pycon
+
+  >>> from argon2 import PasswordHasher
+  >>> ph = PasswordHasher()
+  >>> hash = ph.hash("s3kr3tp4ssw0rd")
+  >>> hash  # doctest: +SKIP
+  '$argon2id$v=19$m=102400,t=2,p=8$tSm+JOWigOgPZx/g44K5fQ$WDyus6py50bVFIPkjA28lQ'
+  >>> ph.verify(hash, "s3kr3tp4ssw0rd")
+  True
+  >>> ph.check_needs_rehash(hash)
+  False
+  >>> ph.verify(hash, "t0t411ywr0ng")
+  Traceback (most recent call last):
+    ...
+  argon2.exceptions.VerifyMismatchError: The password does not match the supplied hash
+
+
+*argon2-cffi*'s documentation lives at `Read the Docs <https://argon2-cffi.readthedocs.io/>`_, the code on `GitHub <https://github.com/hynek/argon2-cffi>`_.
+It’s rigorously tested on Python 3.5+, and PyPy3.
+
+It implements *Argon2* version 1.3, as described in
+`Argon2: the memory-hard function for password hashing and other applications <https://www.cryptolux.org/images/0/0d/Argon2.pdf>`_.
+
+
+argon2-cffi for Enterprise
+==========================
+
+Available as part of the Tidelift Subscription.
+
+The maintainers of *argon2-cffi* and thousands of other packages are working with Tidelift to deliver commercial support and maintenance for the open source packages you use to build your applications. Save time, reduce risk, and improve code health, while paying the maintainers of the exact packages you use. `Learn more. <https://tidelift.com/subscription/pkg/pypi-argon2-cffi?utm_source=undefined&utm_medium=referral&utm_campaign=enterprise&utm_term=repo>`_
+
+
+Release Information
+===================
+
+21.1.0 (2021-08-29)
+-------------------
+
+Vendoring Argon2 @ `62358ba <https://github.com/P-H-C/phc-winner-argon2/tree/62358ba2123abd17fccf2a108a301d4b52c01a7c>`_ (20190702)
+
+
+Backward-incompatible changes:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Microsoft stopped providing the necessary SDKs to ship Python 2.7 wheels and currenly the downloads amount to 0.09%.
+Therefore we have decided that Python 2.7 is not supported anymore.
+
+
+Deprecations:
+^^^^^^^^^^^^^
+
+*none*
+
+
+Changes:
+^^^^^^^^
+
+There are indeed no changes whatsoever to the code of *argon2-cffi*.
+The *Argon2* project also hasn't tagged a new release since July 2019.
+There also don't seem to be any important pending fixes.
+
+This release is mainly about improving the way binary wheels are built (abi3 on all platforms).
+
+`Full changelog <https://argon2-cffi.readthedocs.io/en/stable/changelog.html>`_.
+
+Credits & License
+=================
+
+``argon2-cffi`` is maintained by Hynek Schlawack and released under the `MIT license <https://github.com/hynek/argon2-cffi/blob/main/LICENSE>`_.
+
+The development is kindly supported by `Variomedia AG <https://www.variomedia.de/>`_.
+
+A full list of contributors can be found in GitHub's `overview <https://github.com/hynek/argon2-cffi/graphs/contributors>`_.
+
+
+Vendored Code
+-------------
+
+Argon2
+^^^^^^
+
+The original Argon2 repo can be found at https://github.com/P-H-C/phc-winner-argon2/.
+
+Except for the components listed below, the Argon2 code in this repository is copyright (c) 2015 Daniel Dinu, Dmitry Khovratovich (main authors), Jean-Philippe Aumasson and Samuel Neves, and under CC0_ license.
+
+The string encoding routines in src/encoding.c are copyright (c) 2015 Thomas Pornin, and under CC0_ license.
+
+The `BLAKE2 <https://www.blake2.net>`_ code in ``src/blake2/`` is copyright (c) Samuel Neves, 2013-2015, and under CC0_ license.
+
+The authors of Argon2 also were very helpful to get the library to compile on ancient versions of Visual Studio for ancient versions of Python.
+
+The documentation also quotes frequently from the Argon2 paper_ to avoid mistakes by rephrasing.
+
+.. _CC0: https://creativecommons.org/publicdomain/zero/1.0/
+.. _paper: https://www.password-hashing.net/argon2-specs.pdf
+
+

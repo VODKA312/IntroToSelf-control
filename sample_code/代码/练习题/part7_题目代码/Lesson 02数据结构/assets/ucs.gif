@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>File:Dijkstras progress animation.gif - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"File","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":6,"wgPageName":"File:Dijkstras_progress_animation.gif","wgTitle":"Dijkstras progress animation.gif","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"File:Dijkstras_progress_animation.gif","wgRelevantArticleId":0,"wgRequestId":"WZ@skgpAIDQAAHhDiEMAAABV","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionCreate":[],"wgRestrictionUpload":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preload","preloadparams","preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","filepage":"ready","mediawiki.action.view.filepage":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.action.view.filepage%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<link rel="stylesheet" href="https://commons.wikimedia.org/w/index.php?title=MediaWiki:Filepage.css&amp;action=raw&amp;maxage=1209600&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=1209600"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.15"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://commons.wikimedia.org/wiki/File:Dijkstras_progress_animation.gif"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-6 ns-subject page-File_Dijkstras_progress_animation_gif rootpage-File_Dijkstras_progress_animation_gif skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-commons-icon" class="mw-indicator"><a href="https://commons.wikimedia.org/wiki/File:Dijkstras_progress_animation.gif" title="This is a file from the Wikimedia Commons"><img alt="This is a file from the Wikimedia Commons" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/22px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></div>
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">File:Dijkstras progress animation.gif</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text"><ul id="filetoc"><li><a href="#file">File</a></li>
+<li><a href="#filehistory">File history</a></li>
+<li><a href="#filelinks">File usage</a></li>
+<li><a href="#globalusage">Global file usage</a></li></ul><div class="fullImageLink" id="file"><a href="//upload.wikimedia.org/wikipedia/commons/2/23/Dijkstras_progress_animation.gif"><img alt="File:Dijkstras progress animation.gif" src="//upload.wikimedia.org/wikipedia/commons/2/23/Dijkstras_progress_animation.gif" width="210" height="210" data-file-width="210" data-file-height="210" /></a><div class="mw-filepage-resolutioninfo">No higher resolution available.</div></div>
+<div class="fullMedia"><a href="//upload.wikimedia.org/wikipedia/commons/2/23/Dijkstras_progress_animation.gif" class="internal" title="Dijkstras progress animation.gif">Dijkstras_progress_animation.gif</a> &#8206;<span class="fileInfo">(210 × 210 pixels, file size: 128 KB, MIME type: <span class="mime-type">image/gif</span>, looped, 382 frames, 43 s)</span>
+</div>
+<div class="sharedUploadNotice">
+<table id="mw-sharedupload" class="plainlinks fmbox fmbox-system" role="presentation"><tr><td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" title="Wikimedia Commons logo" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td><td class="mbox-text" style="text-align: center;">This is a file from the <a href="https://commons.wikimedia.org/wiki/Main_Page" class="extiw" title="commons:Main Page">Wikimedia Commons</a>. Information from its <b><a href="https://commons.wikimedia.org/wiki/File:Dijkstras_progress_animation.gif" class="extiw" title="commons:File:Dijkstras progress animation.gif">description page there</a></b> is shown below.<br/><span style="font-size: smaller;">Commons is a freely licensed media file repository. <a href="https://commons.wikimedia.org/wiki/Commons:Welcome" class="extiw" title="commons:Commons:Welcome">You can help</a>.</span></td></tr></table>
+</div>
+<div id="shared-image-desc"><div class="mw-parser-output"><div class="hproduct commons-file-information-table">
+<table class="fileinfotpl-type-information toccolours vevent mw-content-ltr" style="width: 100%; direction: ltr;" cellpadding="4">
+<tr style="vertical-align: top">
+<td id="fileinfotpl_desc" class="fileinfo-paramfield" lang="en">Description<span class="summary fn" style="display:none">Dijkstras progress animation.gif</span></td>
+<td class="description">
+<div class="description mw-content-ltr en" dir="ltr" lang="en" style=""><span class="language en" title=""><b>English:</b></span> Illustration of <a href="https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm" class="extiw" title="w:Dijkstra's algorithm">Dijkstra's algorithm</a>. The <a href="https://en.wikipedia.org/wiki/Graph_(mathematics)" class="extiw" title="w:Graph (mathematics)">graph</a> is created by uniform square discretization of a 2-dimensional planar region, placing a node in each discretized cell, and connecting each node with its 8 neighbors using bidirectional edges. Cost of edges are same as their Euclidean lengths. The gray shape represents an obstacle. The filled circles in red &amp; green represent expanded nodes (nodes in closed set). The color indicate the distance (in the graph) of a node from the start node (red: lower, green: higher). The empty nodes with blue boundary are the ones in open set. The nodes of the graph are generated on the fly, and nodes falling inside the obstacle are discarded as inaccessible. Note that Dijkstra's is a special case of the <a href="https://en.wikipedia.org/wiki/A*_search_algorithm" class="extiw" title="w:A* search algorithm">A* search algorithm</a> when the <a href="https://en.wikipedia.org/wiki/Consistent_heuristic" class="extiw" title="w:Consistent heuristic">heuristic</a> is identically 0. Note how the nodes are expanded almost uniformly in all directions. The number of nodes expanded is significantly higher when compared with the <a href="//commons.wikimedia.org/wiki/File:Astar_progress_animation.gif" title="File:Astar progress animation.gif">same search problem solved using A* search algorithm</a>. Created using <a rel="nofollow" class="external text" href="http://code.google.com/p/yagsbpl/">YGSBPL graph-search library</a> and <a href="https://en.wikipedia.org/wiki/OpenCV" class="extiw" title="w:OpenCV">OpenCV</a>.</div>
+</td>
+</tr>
+<tr style="vertical-align: top">
+<td id="fileinfotpl_date" class="fileinfo-paramfield" lang="en">Date</td>
+<td lang="en"><span style="white-space:nowrap"><time class="dtstart" datetime="2011-04-13">13 April 2011</time></span></td>
+</tr>
+<tr style="vertical-align: top">
+<td id="fileinfotpl_src" class="fileinfo-paramfield" lang="en">Source</td>
+<td><span class="int-own-work" lang="en">Own work</span></td>
+</tr>
+<tr style="vertical-align: top">
+<td id="fileinfotpl_aut" class="fileinfo-paramfield" lang="en">Author</td>
+<td><a href="//commons.wikimedia.org/wiki/User:Subh83" title="User:Subh83">Subh83</a></td>
+</tr>
+<tr style="vertical-align: top">
+<td id="fileinfotpl_perm" class="fileinfo-paramfield" lang="en">Permission<br />
+<small>(<a href="//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia" title="Commons:Reusing content outside Wikimedia">Reusing this file</a>)</small></td>
+<td>
+<table style="width:100%; clear:both; text-align:center; margin:0.5em auto; background-color:#f9f9f9; border:2px solid #e0e0e0; padding: 0; border-spacing: 8px;" class="layouttemplate licensetpl mw-content-ltr" lang="en">
+<tr>
+<td style="width:90px;" rowspan="3"><img alt="w:en:Creative Commons" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/90px-CC_some_rights_reserved.svg.png" title="w:en:Creative Commons" width="90" height="36" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/135px-CC_some_rights_reserved.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/180px-CC_some_rights_reserved.svg.png 2x" data-file-width="744" data-file-height="300" /><br />
+<img alt="attribution" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/24px-Cc-by_new_white.svg.png" title="attribution" width="24" height="24" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/36px-Cc-by_new_white.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/48px-Cc-by_new_white.svg.png 2x" data-file-width="64" data-file-height="64" /></td>
+<td>This file is licensed under the <a href="https://en.wikipedia.org/wiki/en:Creative_Commons" class="extiw" title="w:en:Creative Commons">Creative Commons</a> <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by/3.0/deed.en">Attribution 3.0 Unported</a> license.</td>
+<td style="width:90px;" rowspan="3"></td>
+</tr>
+<tr style="text-align:center;">
+<td></td>
+</tr>
+<tr style="text-align:left;">
+<td>
+<dl>
+<dd>You are free:
+<ul>
+<li><b>to share</b> – to copy, distribute and transmit the work</li>
+<li><b>to remix</b> – to adapt the work</li>
+</ul>
+</dd>
+<dd>Under the following conditions:
+<ul>
+<li><b>attribution</b> – You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).</li>
+</ul>
+</dd>
+</dl>
+<p><span class="licensetpl_link" style="display:none;">http://creativecommons.org/licenses/by/3.0</span> <span class="licensetpl_short" style="display:none;">CC BY 3.0</span> <span class="licensetpl_long" style="display:none;">Creative Commons Attribution 3.0</span> <span class="licensetpl_link_req" style="display:none;">true</span><span class="licensetpl_attr_req" style="display:none;">true</span></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1250
+Cached time: 20170821160253
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.044 seconds
+Real time usage: 0.077 seconds
+Preprocessor visited node count: 645/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 15728/2097152 bytes
+Template argument size: 12565/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Lua time usage: 0.007/10.000 seconds
+Lua memory usage: 831 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   58.603      1 -total
+100.00%   58.603      1 Template:Information
+ 31.53%   18.476      1 Template:ISOdate
+ 15.10%    8.847      1 Template:Years_since
+ 13.15%    7.707      1 Template:Cc-by-3.0
+ 11.04%    6.471      1 Template:Cc-by-layout
+  9.27%    5.435      1 Template:IfNum
+  6.59%    3.863      1 Template:Parse_source
+  5.66%    3.314      1 Template:CC-Layout
+  5.64%    3.304      1 Template:En
+-->
+</div>
+<!-- Saved in parser cache with key commonswiki:pcache:idhash:14916903-1!canonical and timestamp 20170821160253 and revision id 187363050
+ -->
+</div>
+<h2 id="filehistory">File history</h2>
+<div id="mw-imagepage-section-filehistory">
+<p>Click on a date/time to view the file as it appeared at that time.
+</p>
+<table class="wikitable filehistory">
+<tr><th></th><th>Date/Time</th><th>Thumbnail</th><th>Dimensions</th><th>User</th><th>Comment</th></tr>
+<tr><td>current</td><td class='filehistory-selected' style='white-space: nowrap;'><a href="//upload.wikimedia.org/wikipedia/commons/2/23/Dijkstras_progress_animation.gif">23:11, 14 April 2011</a></td><td><a href="//upload.wikimedia.org/wikipedia/commons/2/23/Dijkstras_progress_animation.gif"><img alt="Thumbnail for version as of 23:11, 14 April 2011" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Dijkstras_progress_animation.gif/120px-Dijkstras_progress_animation.gif" width="120" height="120" data-file-width="210" data-file-height="210" /></a></td><td>210 × 210 <span style="white-space: nowrap;">(128 KB)</span></td><td>Subh83</td><td dir="ltr">{{Information |Description    ={{en|1=Illustration of [http://en.wikipedia.org/wiki/Dijkstra&#039;s_algorithm Dijkstra&#039;s algorithm]. The [http://en.wikipedia.org/wiki/Graph_(mathematics) graph] is created by uniform square discretization of a 2-dimensional pla</td></tr>
+</table>
+
+</div>
+<h2 id="filelinks">File usage</h2>
+<div id='mw-imagepage-section-linkstoimage'>
+<p>More than 100 pages link to this file.
+The following list shows the first 100 page links to this file only.
+A <a href="/wiki/Special:WhatLinksHere/File:Dijkstras_progress_animation.gif" title="Special:WhatLinksHere/File:Dijkstras progress animation.gif">full list</a> is available.
+</p><ul class="mw-imagepage-linkstoimage">
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/Dijkstra%27s_algorithm" title="Dijkstra's algorithm">Dijkstra&#039;s algorithm</a></li>
+<li class="mw-imagepage-linkstoimage-ns1"><a href="/wiki/Talk:A*_search_algorithm" title="Talk:A* search algorithm">Talk:A* search algorithm</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:EMachine03" title="User:EMachine03">User:EMachine03</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Subh83/CommonsContrib" title="User:Subh83/CommonsContrib">User:Subh83/CommonsContrib</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:A.Minkowiski" title="User talk:A.Minkowiski">User talk:A.Minkowiski</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Airplane_Maniac/Archive_2" title="User talk:Airplane Maniac/Archive 2">User talk:Airplane Maniac/Archive 2</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Ankit2299" title="User talk:Ankit2299">User talk:Ankit2299</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Another_Believer" title="User talk:Another Believer">User talk:Another Believer</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Antrocent" title="User talk:Antrocent">User talk:Antrocent</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Aryan_hindustan" title="User talk:Aryan hindustan">User talk:Aryan hindustan</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Becky_Sayles" title="User talk:Becky Sayles">User talk:Becky Sayles</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:BluJay" title="User talk:BluJay">User talk:BluJay</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:CAPTAIN_RAJU" title="User talk:CAPTAIN RAJU">User talk:CAPTAIN RAJU</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:CSJJ104/Archive_2" title="User talk:CSJJ104/Archive 2">User talk:CSJJ104/Archive 2</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Calidum" title="User talk:Calidum">User talk:Calidum</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:CanadianDude1" title="User talk:CanadianDude1">User talk:CanadianDude1</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Captain_Assassin!" title="User talk:Captain Assassin!">User talk:Captain Assassin!</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Casliber" title="User talk:Casliber">User talk:Casliber</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:ChamithN" title="User talk:ChamithN">User talk:ChamithN</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:ChrisGualtieri/Archive_31" title="User talk:ChrisGualtieri/Archive 31">User talk:ChrisGualtieri/Archive 31</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Coin945" title="User talk:Coin945">User talk:Coin945</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Coin945/Archive_4" title="User talk:Coin945/Archive 4">User talk:Coin945/Archive 4</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:CookieMonster755" title="User talk:CookieMonster755">User talk:CookieMonster755</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:CrawfordLou" title="User talk:CrawfordLou">User talk:CrawfordLou</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:CryOCed" title="User talk:CryOCed">User talk:CryOCed</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:CyberXRef" title="User talk:CyberXRef">User talk:CyberXRef</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Davey2010" title="User talk:Davey2010">User talk:Davey2010</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Dennis_Brown/Archive_26" title="User talk:Dennis Brown/Archive 26">User talk:Dennis Brown/Archive 26</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Dlohcierekim" title="User talk:Dlohcierekim">User talk:Dlohcierekim</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Dominoooo%27s" title="User talk:Dominoooo's">User talk:Dominoooo&#039;s</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Donnie_Park" title="User talk:Donnie Park">User talk:Donnie Park</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:EMachine03/Archive" title="User talk:EMachine03/Archive">User talk:EMachine03/Archive</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Ethraen" title="User talk:Ethraen">User talk:Ethraen</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:EuroCarGT/Archives/2014/March" title="User talk:EuroCarGT/Archives/2014/March">User talk:EuroCarGT/Archives/2014/March</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Evad37/Archive_2" title="User talk:Evad37/Archive 2">User talk:Evad37/Archive 2</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Evad37/Archive_6" title="User talk:Evad37/Archive 6">User talk:Evad37/Archive 6</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:FacultiesIntact" title="User talk:FacultiesIntact">User talk:FacultiesIntact</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:FeydHuxtable" title="User talk:FeydHuxtable">User talk:FeydHuxtable</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:GeekyEnki" title="User talk:GeekyEnki">User talk:GeekyEnki</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Geirfuglasker" title="User talk:Geirfuglasker">User talk:Geirfuglasker</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:GiantSnowman/2017" title="User talk:GiantSnowman/2017">User talk:GiantSnowman/2017</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Gwooodward" title="User talk:Gwooodward">User talk:Gwooodward</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:HectorAE" title="User talk:HectorAE">User talk:HectorAE</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Human3015" title="User talk:Human3015">User talk:Human3015</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:I_JethroBT/Archive_10" title="User talk:I JethroBT/Archive 10">User talk:I JethroBT/Archive 10</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Iamozy" title="User talk:Iamozy">User talk:Iamozy</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Invisible_Guy/Wikidata" title="User talk:Invisible Guy/Wikidata">User talk:Invisible Guy/Wikidata</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Irondome/Archive_1" title="User talk:Irondome/Archive 1">User talk:Irondome/Archive 1</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Jesus_Presley" title="User talk:Jesus Presley">User talk:Jesus Presley</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Jim_Carter_-_Public" title="User talk:Jim Carter - Public">User talk:Jim Carter - Public</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:JohnChrysostom" title="User talk:JohnChrysostom">User talk:JohnChrysostom</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:John_Carter" title="User talk:John Carter">User talk:John Carter</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Khamar" title="User talk:Khamar">User talk:Khamar</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:LutherBlissetts" title="User talk:LutherBlissetts">User talk:LutherBlissetts</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:MBlaze_Lightning" title="User talk:MBlaze Lightning">User talk:MBlaze Lightning</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Marek69" title="User talk:Marek69">User talk:Marek69</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Maryana_(WMF)/Archive_7" title="User talk:Maryana (WMF)/Archive 7">User talk:Maryana (WMF)/Archive 7</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Mathwhiz_29" title="User talk:Mathwhiz 29">User talk:Mathwhiz 29</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Miss_Bono" title="User talk:Miss Bono">User talk:Miss Bono</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:MrWooHoo" title="User talk:MrWooHoo">User talk:MrWooHoo</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:My76Strat" title="User talk:My76Strat">User talk:My76Strat</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:NickPenguin" title="User talk:NickPenguin">User talk:NickPenguin</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Ottawahitech/Archive_2" title="User talk:Ottawahitech/Archive 2">User talk:Ottawahitech/Archive 2</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:PWNGWN" title="User talk:PWNGWN">User talk:PWNGWN</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Panpog1" title="User talk:Panpog1">User talk:Panpog1</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Picomtn" title="User talk:Picomtn">User talk:Picomtn</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Pratyya_Ghosh" title="User talk:Pratyya Ghosh">User talk:Pratyya Ghosh</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:RexRowan" title="User talk:RexRowan">User talk:RexRowan</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Ryan115" title="User talk:Ryan115">User talk:Ryan115</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Sadads/Archive_April_2013-December_2013" title="User talk:Sadads/Archive April 2013-December 2013">User talk:Sadads/Archive April 2013-December 2013</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Sahara4u" title="User talk:Sahara4u">User talk:Sahara4u</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Sarason" title="User talk:Sarason">User talk:Sarason</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Sigehelmus" title="User talk:Sigehelmus">User talk:Sigehelmus</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Silver_seren" title="User talk:Silver seren">User talk:Silver seren</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Sjones23" title="User talk:Sjones23">User talk:Sjones23</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Smileguy91" title="User talk:Smileguy91">User talk:Smileguy91</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Soni/Archive_8" title="User talk:Soni/Archive 8">User talk:Soni/Archive 8</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Soni/Archive_9" title="User talk:Soni/Archive 9">User talk:Soni/Archive 9</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Stuartyeates" title="User talk:Stuartyeates">User talk:Stuartyeates</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:TParis/Archive_10" title="User talk:TParis/Archive 10">User talk:TParis/Archive 10</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Tariqabjotu/Archive_Sixty-Three" title="User talk:Tariqabjotu/Archive Sixty-Three">User talk:Tariqabjotu/Archive Sixty-Three</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Teb00007" title="User talk:Teb00007">User talk:Teb00007</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:TheEditor867" title="User talk:TheEditor867">User talk:TheEditor867</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:The_boss_1998" title="User talk:The boss 1998">User talk:The boss 1998</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Theopolisme/Archive_16" title="User talk:Theopolisme/Archive 16">User talk:Theopolisme/Archive 16</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Theopolisme/Archive_17" title="User talk:Theopolisme/Archive 17">User talk:Theopolisme/Archive 17</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Theopolisme/Archive_25" title="User talk:Theopolisme/Archive 25">User talk:Theopolisme/Archive 25</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Timdwilliamson/AfI" title="User talk:Timdwilliamson/AfI">User talk:Timdwilliamson/AfI</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Toshio_Yamaguchi/Archive_5" title="User talk:Toshio Yamaguchi/Archive 5">User talk:Toshio Yamaguchi/Archive 5</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Valereee" title="User talk:Valereee">User talk:Valereee</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Whiteghost.ink" title="User talk:Whiteghost.ink">User talk:Whiteghost.ink</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:WikiJuggernaut" title="User talk:WikiJuggernaut">User talk:WikiJuggernaut</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:WikiPancake" title="User talk:WikiPancake">User talk:WikiPancake</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Woodstop45" title="User talk:Woodstop45">User talk:Woodstop45</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Ypnypn" title="User talk:Ypnypn">User talk:Ypnypn</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:ZappaOMati/Archive_3" title="User talk:ZappaOMati/Archive 3">User talk:ZappaOMati/Archive 3</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%B0%E0%AE%BF%E0%AE%9A%E0%AE%BF%E0%AE%B2%E0%AF%8D" title="User talk:தமிழ்க்குரிசில்">User talk:தமிழ்க்குரிசில்</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/Wikipedia:Today%27s_articles_for_improvement/Sandbox" title="Wikipedia:Today's articles for improvement/Sandbox">Wikipedia:Today&#039;s articles for improvement/Sandbox</a></li>
+<li class="mw-imagepage-linkstoimage-ns5"><a href="/wiki/Wikipedia_talk:Today%27s_articles_for_improvement/Archive_6" title="Wikipedia talk:Today's articles for improvement/Archive 6">Wikipedia talk:Today&#039;s articles for improvement/Archive 6</a></li>
+<li class="mw-imagepage-linkstoimage-ns5"><a href="/wiki/Wikipedia_talk:Today%27s_articles_for_improvement/Archive_7" title="Wikipedia talk:Today's articles for improvement/Archive 7">Wikipedia talk:Today&#039;s articles for improvement/Archive 7</a></li>
+</ul>
+</div>
+<h2 id="globalusage">Global file usage</h2>
+<div id="mw-imagepage-section-globalusage"><p>The following other wikis use this file:
+</p><ul>
+<li class='mw-gu-onwiki-en_wikibooks_org'>Usage on en.wikibooks.org
+<ul>	<li><a class="external" href="//en.wikibooks.org/wiki/A-level_Computing/AQA/Paper_1/Fundamentals_of_algorithms/Optimisation_algorithms">A-level Computing/AQA/Paper 1/Fundamentals of algorithms/Optimisation algorithms</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-hu_wikipedia_org'>Usage on hu.wikipedia.org
+<ul>	<li><a class="external" href="//hu.wikipedia.org/wiki/Dijkstra-algoritmus">Dijkstra-algoritmus</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-lv_wikipedia_org'>Usage on lv.wikipedia.org
+<ul>	<li><a class="external" href="//lv.wikipedia.org/wiki/Deikstras_algoritms">Deikstras algoritms</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-mk_wikipedia_org'>Usage on mk.wikipedia.org
+<ul>	<li><a class="external" href="//mk.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%B0%D0%BC_%D0%BD%D0%B0_%D0%94%D0%B0%D1%98%D0%BA%D1%81%D1%82%D1%80%D0%B0">Алгоритам на Дајкстра</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-mn_wikipedia_org'>Usage on mn.wikipedia.org
+<ul>	<li><a class="external" href="//mn.wikipedia.org/wiki/%D0%94%D0%B8%D0%B6%D0%B8%D0%BA%D1%81%D1%82%D1%80%D0%B0%D0%B3%D0%B8%D0%B9%D0%BD_%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC">Дижикстрагийн алгоритм</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-th_wikipedia_org'>Usage on th.wikipedia.org
+<ul>	<li><a class="external" href="//th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%B2%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%80%E0%B8%AD%E0%B8%AA%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B9%8C">การค้นหาแบบเอสตาร์</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-zh_wikipedia_org'>Usage on zh.wikipedia.org
+<ul>	<li><a class="external" href="//zh.wikipedia.org/wiki/%E6%88%B4%E5%85%8B%E6%96%AF%E7%89%B9%E6%8B%89%E7%AE%97%E6%B3%95">戴克斯特拉算法</a></li>
+</ul></li>
+</ul>
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/wiki/File:Dijkstras_progress_animation.gif">https://en.wikipedia.org/wiki/File:Dijkstras_progress_animation.gif</a>"					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=File%3ADijkstras+progress+animation.gif" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=File%3ADijkstras+progress+animation.gif" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-image" class="selected"><span><a href="/wiki/File:Dijkstras_progress_animation.gif" title="View the file page [c]" accesskey="c">File</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/File_talk:Dijkstras_progress_animation.gif" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/File:Dijkstras_progress_animation.gif">Read</a></span></li>
+							<li id="ca-view-foreign" class="collapsible"><span><a href="https://commons.wikimedia.org/wiki/File:Dijkstras_progress_animation.gif">View on Commons</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/File:Dijkstras_progress_animation.gif" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-info"><a href="/w/index.php?title=File:Dijkstras_progress_animation.gif&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+											</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=File:Dijkstras_progress_animation.gif&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":185,"wgHostname":"mw1182"});});</script>
+	</body>
+</html>

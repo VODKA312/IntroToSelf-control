@@ -1,0 +1,12 @@
+﻿  helpers.cpp
+c:\users\sjtucfy\source\repos\s6_project_cfy\s6_project_cfy\helpers.cpp(45): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\sjtucfy\source\repos\s6_project_cfy\s6_project_cfy\helpers.cpp(47): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\sjtucfy\source\repos\s6_project_cfy\s6_project_cfy\helpers.cpp(53): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\sjtucfy\source\repos\s6_project_cfy\s6_project_cfy\helpers.cpp(55): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\sjtucfy\source\repos\s6_project_cfy\s6_project_cfy\helpers.cpp(104): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\sjtucfy\source\repos\s6_project_cfy\s6_project_cfy\helpers.cpp(105): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\sjtucfy\source\repos\s6_project_cfy\s6_project_cfy\helpers.cpp(106): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\sjtucfy\source\repos\s6_project_cfy\s6_project_cfy\helpers.cpp(169): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\sjtucfy\source\repos\s6_project_cfy\s6_project_cfy\helpers.cpp(170): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\sjtucfy\source\repos\s6_project_cfy\s6_project_cfy\helpers.cpp(227): warning C4101: “color”: 未引用的局部变量
+  S6_Project_CFY.vcxproj -> C:\Users\sjtucfy\source\repos\S6_Project_CFY\Debug\S6_Project_CFY.exe
